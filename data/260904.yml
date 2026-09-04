@@ -1,0 +1,57 @@
+about:
+  description: A command-line tool to kill processes and containers running on specified ports.
+  license: MIT
+  homepage: 
+  head: ca21e87
+  archived: false
+  latestVersion: v2.0.2
+  collectedAt: 2026-09-04T04:32:54Z
+timeline:
+  created: 2023-03-17
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-01
+popularity:
+  star: 1840
+  watcher: 8
+  fork: 42
+  release: 13
+  contributor: 9
+  pullRequest: 3
+  issue: 15
+language:
+  Rust: 125498
+  Shell: 1401
+totalLine: 126899
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 5
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 20
+  last180d:
+    since: 2026-03-08
+    release: 3
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 20
+  last360d:
+    since: 2025-09-09
+    release: 3
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 42
