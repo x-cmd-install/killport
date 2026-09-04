@@ -7,7 +7,7 @@ about:
   head: ca21e87
   archived: false
   latestVersion: v2.0.2
-  collectedAt: 2026-09-04T19:35:39Z
+  collectedAt: 2026-09-04T20:55:48Z
 timeline:
   created: 2023-03-17
   lastCommit: 2026-09-01
@@ -81,5 +81,38 @@ total:
   openIssue: 1
   commit: 170
 ---
+path: /home/runner/.x-repo/github.com/jkfran/killport
+collectedAt: 2026-09-04T20:55:49Z
+loc:
+  Rust:
+    code: 3073
+    comments: 150
+    blanks: 499
+    files: 15
+  Toml:
+    code: 44
+    comments: 1
+    blanks: 6
+    files: 1
+  Sh:
+    code: 39
+    comments: 1
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 22
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 458
+    blanks: 146
+    files: 6
+total:
+  code: 3178
+  comments: 747
+  blanks: 693
+  files: 24
 ---
 
