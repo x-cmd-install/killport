@@ -5,7 +5,7 @@ about:
   head: ca21e87
   archived: false
   latestVersion: "v2.0.2"
-  collectedAt: 2026-09-07T05:06:13Z
+  collectedAt: 2026-09-07T19:29:45Z
 timeline:
   created: 2023-03-17
   lastCommit: 2026-09-01
@@ -80,7 +80,7 @@ total:
   commit: 170
 ---
 path: /home/runner/.x-repo/github.com/jkfran/killport
-collectedAt: 2026-09-07T05:06:13Z
+collectedAt: 2026-09-07T19:29:46Z
 loc:
   Rust:
     code: 3073
@@ -116,7 +116,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:06:14+00:00
+  collectedAt: 2026-09-07T19:29:46+00:00
   platform:
     darwin/arm64:
       name:  killport-aarch64-apple-darwin.tar.gz
