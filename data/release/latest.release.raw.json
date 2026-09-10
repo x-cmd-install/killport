@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1565665,
       "digest": "sha256:09e7fd05e77d6a3ae1f23bfa1b3a416534a4f32e25986ab4b1f4859f1449e8ff",
-      "download_count": 198,
+      "download_count": 203,
       "created_at": "2026-08-01T08:09:53Z",
       "updated_at": "2026-08-01T08:09:54Z",
       "browser_download_url": "https://github.com/jkfran/killport/releases/download/v2.0.2/killport-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1777812,
       "digest": "sha256:7b2f524dce0a66f452e28c9d74f9ad3173c0a2459626b181357657d96c1608f4",
-      "download_count": 13414,
+      "download_count": 13422,
       "created_at": "2026-08-01T08:10:29Z",
       "updated_at": "2026-08-01T08:10:29Z",
       "browser_download_url": "https://github.com/jkfran/killport/releases/download/v2.0.2/killport-aarch64-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1943317,
       "digest": "sha256:149517c2d470593cfc81a025da0388b2f46641e97eeaa8ac47a5e9594ea2a241",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-01T08:10:19Z",
       "updated_at": "2026-08-01T08:10:20Z",
       "browser_download_url": "https://github.com/jkfran/killport/releases/download/v2.0.2/killport-i686-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1824715,
       "digest": "sha256:c65463fe93947ef0f14405a61a1428877801f7aa884db29b71a58b21d83fe80b",
-      "download_count": 897,
+      "download_count": 909,
       "created_at": "2026-08-01T08:10:31Z",
       "updated_at": "2026-08-01T08:10:31Z",
       "browser_download_url": "https://github.com/jkfran/killport/releases/download/v2.0.2/killport-x86_64-linux-gnu.tar.gz"
