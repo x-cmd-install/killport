@@ -4,7 +4,7 @@
 
 A command-line tool to kill processes and containers running on specified ports.
 
-[![x-cmd/install — killport Code Quality Monitoring Repo Card](https://repo.x-cmd.io/killport.svg)](https://x-cmd.com/install/killport)
+[![x-cmd/install — killport Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/killport.svg)](https://x-cmd.com/install/killport)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **3,178** lines of code across **24** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 1 | 5 | 1 | 0 | 0 | 6 |
-| 90d | 2026-06-24 | 2 | 11 | 1 | 0 | 0 | 20 |
-| last180d | 2026-03-26 | 2 | 11 | 1 | 0 | 0 | 20 |
-| 360d | 2025-09-27 | 3 | 11 | 1 | 0 | 0 | 42 |
-| last720d | 2024-10-02 | 3 | 11 | 1 | 0 | 0 | 43 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 1 | 5 | 1 | 0 | 0 | 6 |
+| 90d | 2026-06-25 | 2 | 11 | 1 | 0 | 0 | 20 |
+| last180d | 2026-03-27 | 2 | 11 | 1 | 0 | 0 | 20 |
+| 360d | 2025-09-28 | 3 | 11 | 1 | 0 | 0 | 42 |
+| last720d | 2024-10-03 | 3 | 11 | 1 | 0 | 0 | 43 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for killport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:12:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:11:36Z._
