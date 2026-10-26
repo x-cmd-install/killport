@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1777812,
       "digest": "sha256:7b2f524dce0a66f452e28c9d74f9ad3173c0a2459626b181357657d96c1608f4",
-      "download_count": 27310,
+      "download_count": 27665,
       "created_at": "2026-08-01T08:10:29Z",
       "updated_at": "2026-08-01T08:10:29Z",
       "browser_download_url": "https://github.com/jkfran/killport/releases/download/v2.0.2/killport-aarch64-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1824715,
       "digest": "sha256:c65463fe93947ef0f14405a61a1428877801f7aa884db29b71a58b21d83fe80b",
-      "download_count": 2464,
+      "download_count": 2530,
       "created_at": "2026-08-01T08:10:31Z",
       "updated_at": "2026-08-01T08:10:31Z",
       "browser_download_url": "https://github.com/jkfran/killport/releases/download/v2.0.2/killport-x86_64-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2888793,
       "digest": "sha256:1e400414e16409fa9c154217982277ae77f66cc3a394a592221480b7ee1d6554",
-      "download_count": 85,
+      "download_count": 87,
       "created_at": "2026-08-01T08:11:02Z",
       "updated_at": "2026-08-01T08:11:02Z",
       "browser_download_url": "https://github.com/jkfran/killport/releases/download/v2.0.2/killport-x86_64-pc-windows-gnu.tar.gz"
