@@ -37,7 +37,7 @@ Total: **3,178** lines of code across **24** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,842 · **Forks**: 43 · **Open issues**: 15 · **Contributors**: 9
+- **Stars**: 1,843 · **Forks**: 43 · **Open issues**: 15 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,178** lines of code across **24** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-05 | 0 | 4 | 1 | 0 | 0 | 5 |
-| last180d | 2026-05-07 | 2 | 11 | 1 | 0 | 0 | 20 |
-| 360d | 2025-11-08 | 3 | 11 | 1 | 0 | 0 | 40 |
-| last720d | 2024-11-13 | 3 | 11 | 1 | 0 | 0 | 43 |
+| 30d | 2026-10-05 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-06 | 0 | 4 | 1 | 0 | 0 | 5 |
+| last180d | 2026-05-08 | 2 | 11 | 1 | 0 | 0 | 20 |
+| 360d | 2025-11-09 | 3 | 11 | 1 | 0 | 0 | 40 |
+| last720d | 2024-11-14 | 3 | 11 | 1 | 0 | 0 | 43 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for killport lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:05:31Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:37:05Z._
