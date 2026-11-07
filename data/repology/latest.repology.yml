@@ -1,25 +1,12 @@
-- repo: aur
+- repo: nix_stable_25_11
   srcname: killport
-  binname: killport
   visiblename: killport
-  version: 1.0.0
-  origversion: 1.0.0-1
-  status: outdated
-  summary: Forcefully kill a process listening on a specified port
-  maintainers:
-    - fayez-nazzal@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: killport-bin
-  binname: killport-bin
-  visiblename: killport-bin
   version: 1.1.0
-  origversion: 1.1.0-1
+  origversion: null
   status: outdated
-  summary: Easily kill processes running on a specified port
+  summary: Command-line tool to easily kill processes running on a specified port
   maintainers:
-    - fallback-mnt-aur@repology
+    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: gentoo_ovl_guru
@@ -28,7 +15,7 @@
   version: 1.1.0
   origversion: null
   status: outdated
-  summary: A command-line tool to easily kill processes on a specified port.
+  summary: A command-line tool to easily kill processes on a specified port
   maintainers:
     - kupravagoodman@proton.me
   licenses:
@@ -63,13 +50,24 @@
     - Unicode-DFS-2016
   categories:
     - sys-apps
+- repo: nix_stable_26_05
+  srcname: killport
+  visiblename: killport
+  version: 1.1.0
+  origversion: null
+  status: outdated
+  summary: Command-line tool to easily kill processes running on a specified port
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
 - repo: liguros_develop
   srcname: sys-apps/killport
   visiblename: sys-apps/killport
   version: 1.1.0
   origversion: null
   status: outdated
-  summary: A command-line tool to easily kill processes on a specified port.
+  summary: A command-line tool to easily kill processes on a specified port
   maintainers:
     - kupravagoodman@proton.me
   licenses:
@@ -80,6 +78,30 @@
     - Unicode-DFS-2016
   categories:
     - sys-apps
+- repo: aur
+  srcname: killport
+  binname: killport
+  visiblename: killport
+  version: 1.0.0
+  origversion: 1.0.0-1
+  status: outdated
+  summary: Forcefully kill a process listening on a specified port
+  maintainers:
+    - fayez-nazzal@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: killport-bin
+  binname: killport-bin
+  visiblename: killport-bin
+  version: 1.1.0
+  origversion: 1.1.0-1
+  status: outdated
+  summary: Easily kill processes running on a specified port
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
 - repo: macports
   srcname: sysutils/killport
   binname: killport
@@ -126,28 +148,6 @@
   summary: Command-line tool to easily kill processes running on a specified port
   maintainers:
     - me@sno2wman.net
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: killport
-  visiblename: killport
-  version: 1.1.0
-  origversion: null
-  status: outdated
-  summary: Command-line tool to easily kill processes running on a specified port
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: killport
-  visiblename: killport
-  version: 1.1.0
-  origversion: null
-  status: outdated
-  summary: Command-line tool to easily kill processes running on a specified port
-  maintainers:
-    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: nix_unstable
